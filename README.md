@@ -4,7 +4,11 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+<<<<<<< HEAD
 # This is a test
+=======
+
+>>>>>>> afa09d48bfcf9baad6aaad0b888038b972eecbd4
 # Introduction
 
 - 👋 Hi, I’m Kim Hoo.

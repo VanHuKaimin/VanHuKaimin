@@ -5,7 +5,7 @@
 </picture>
 
 
-#Introduction
+# Introduction
 
 - 👋 Hi, I’m Kim Hoo.
 - 🌱 I’m currently learning C#
